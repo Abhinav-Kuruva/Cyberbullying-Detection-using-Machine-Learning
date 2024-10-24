@@ -64,6 +64,13 @@ python app.py
 ### Contributing
 Feel free to contribute to this project by submitting issues or pull requests. Suggestions for improving the model, UI, or adding new features are welcome.
 
+## Screenshots
+
+![System image](photo1.png)
+<br>
+<br>
+![System image](photo2.png)
+
 
 
 
