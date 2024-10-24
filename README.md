@@ -28,7 +28,7 @@ This project is an excellent example of how machine learning can be applied to r
 - `nb_classifier.pkl`: The trained Naive Bayes model used for prediction.
 - `tfidf_vectorizer.pkl`: The TF-IDF vectorizer to convert input text into features.
 
-### Installation
+## Installation
 
 ### Prerequisites
 
