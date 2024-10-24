@@ -66,10 +66,10 @@ Feel free to contribute to this project by submitting issues or pull requests. S
 
 ## Screenshots
 
-![System image](photo1.png)
+![system photo](system_images/photo1.png)
 <br>
 <br>
-![System image](photo2.png)
+![system photo](system_images/photo2.png)
 
 
 
