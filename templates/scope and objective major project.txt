@@ -1,0 +1,3 @@
+scope and objective
+
+The main idea is that we have a well-structured, transparent and trustable framework for data stewardship. Sharing data might compromise data subjects’ interests at risk by exposing their personal information. Still, it could lead to the loss and fine for the organization and consequently reputational damage. It is expected to mitigate some of the perceived risks of data sharing with data trust. Moreover, the framework must be designed to respond to both data owners’ and data subjects’ concerns by providing ethical principles  underlined in the data trust framework and ensuring the data users regarding the data’s trustworthiness and quality
