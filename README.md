@@ -1,10 +1,12 @@
 ## Introduction
-
+<div align="justify">
+  
 Cyberbullying has become a significant issue with the growing use of online platforms. Harmful comments, hate speech, and offensive language are often directed toward individuals, causing emotional distress and other negative effects. Identifying such harmful content early on is critical to creating a safer and more inclusive online environment.
 
 This project addresses the problem of detecting cyberbullying by leveraging machine learning techniques. The application is designed to classify whether a given statement contains cyberbullying, specifically focusing on offensive language related to ethnicity. By analyzing text data using a Naive Bayes classifier, the model can predict the likelihood of cyberbullying in real-time, providing a useful tool for platforms and communities to monitor harmful content.
 
 The web-based interface allows users to input text and receive predictions regarding its nature, with the application returning both the classification and the associated probability of the statement being considered cyberbullying. This project is a step toward building a more responsible digital space by helping to identify and prevent harmful interactions.
+</div>
 
 ## Features
 
